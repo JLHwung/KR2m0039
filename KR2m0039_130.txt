@@ -1,0 +1,10 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 欽定南巡盛典
+#+DATE: 2015-08-24 22:52:18.287401
+#+PROPERTY: ID KR2m0039
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九十六目録
+<pb:KR2m0039_WYG_130-1a>¶
+欽定四庫全書¶
+欽定南巡盛典卷九十六目錄¶
+　奏議¶

@@ -1,0 +1,12 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 欽定南巡盛典
+#+DATE: 2015-08-24 22:52:15.054752
+#+PROPERTY: ID KR2m0039
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五目録
+<pb:KR2m0039_WYG_008-1a>¶
+欽定四庫全書¶
+欽定南巡盛典卷五目錄¶
+天章(五/)¶
+　　乾隆二十二年丁丑¶
+御製古今體詩¶
