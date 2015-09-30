@@ -1,5 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+TITLE: 欽定南巡盛典
-#+DATE: 2015-08-24 22:52:14.879275
-#+PROPERTY: ID KR2m0039
-#+PROPERTY: BASEEDITION WYG    
